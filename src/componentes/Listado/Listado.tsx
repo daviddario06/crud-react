@@ -41,3 +41,5 @@ const mostrarPosts = (posts:MyPost[] , borrarPost:BorrarPost) =>{
 
     );
 }
+
+/* holal mundito */
